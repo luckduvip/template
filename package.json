@@ -1,0 +1,26 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "mytemplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckduvip/template.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "luckduvip",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luckduvip/template/issues"
+  },
+  "homepage": "https://github.com/luckduvip/template#readme",
+  "dependencies": {
+    "handlebars": "^4.0.5"
+  },
+  "devDependencies": {}
+}
